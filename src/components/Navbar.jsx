@@ -47,7 +47,7 @@ const Navbar = () => {
             <button className="hover:text-green-700 hover:scale-105 transition">
               <i class="fa-regular fa-user"></i>
             </button>
-            <button className="hover:text-green-500 hover:scale-105 transition">
+            <button className="hover:text-green-700 hover:scale-105 transition">
               <i class="fa-solid fa-cart-shopping"></i>
             </button>
           </div>
