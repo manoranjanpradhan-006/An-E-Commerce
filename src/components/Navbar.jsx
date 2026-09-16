@@ -41,10 +41,10 @@ const Navbar = () => {
             </a>
           </div>
           <div className="nav-right flex items-center gap-5 text-xl px-3">
-            <button className="hover:text-orange-700 hover:scale-105 transition">
+            <button className="hover:text-green-700 hover:scale-105 transition">
               <i class="fa-solid fa-magnifying-glass"></i>
             </button>
-            <button className="hover:text-orange-700 hover:scale-105 transition">
+            <button className="hover:text-green-700 hover:scale-105 transition">
               <i class="fa-regular fa-user"></i>
             </button>
             <button className="hover:text-green-500 hover:scale-105 transition">
