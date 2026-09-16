@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <>
-      <nav className="bg-orange-100 text-emerald-800">
+      <nav className="bg-orange-100 text-emerald-800 border-b-2 border-b-orange-600">
         <div className="max-w-7xl mx-auto flex items-center justify-between py-6">
           <div className="nav-left flex items-center justify-between">
             <div className="logo text-2xl font-bold flex items-center gap-2 px-3">
@@ -41,13 +41,13 @@ const Navbar = () => {
             </a>
           </div>
           <div className="nav-right flex items-center gap-5 text-xl px-3">
-            <button>
+            <button className="hover:text-orange-700 hover:scale-105 transition">
               <i class="fa-solid fa-magnifying-glass"></i>
             </button>
-            <button>
+            <button className="hover:text-orange-700 hover:scale-105 transition">
               <i class="fa-regular fa-user"></i>
             </button>
-            <button>
+            <button className="hover:text-green-500 hover:scale-105 transition">
               <i class="fa-solid fa-cart-shopping"></i>
             </button>
           </div>
