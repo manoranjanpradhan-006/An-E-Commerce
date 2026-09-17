@@ -5,7 +5,7 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto flex items-center justify-between py-6">
           <div className="nav-left flex items-center justify-between">
             <div className="logo text-2xl font-bold flex items-center gap-2 px-3">
-              <h1>Your dfgCommerce</h1>
+              <h1>An E-Commerce</h1>
             </div>
           </div>
           <div className="nav-center flex gap-8 text-xl font-bold">
