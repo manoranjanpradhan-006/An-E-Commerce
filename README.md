@@ -11,7 +11,7 @@ ecommerce-frontend/
 │ ├── components/
 │ │ ├── Navbar.jsx
 │ │ ├── Footer.jsx
-│ │ ├── Button.jsx
+│ │ ├── Buttton.jsx
 │ │ ├── ProductCard.jsx
 │ │ ├── ProductGrid.jsx
 │ │ ├── CategoryCard.jsx
